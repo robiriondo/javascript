@@ -1,4 +1,9 @@
-//Java Script Tutorial
+/**
+ *
+ * @author robiriondo
+ * Description
+ * JavaScript Tutorial - v1.0
+ **/
 
 //Pre-requisites basics of programming or introduction to computer/machine learning
 /*Assuming that you know that basics of programming, this
