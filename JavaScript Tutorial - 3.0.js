@@ -1,3 +1,10 @@
+/**
+ *
+ * @author robiriondo
+ * Description
+ * JavaScript Tutorial - v3.0
+ **/
+
 /*
 Loops
 One of a computer's greatest abilities is to repeat a task over and over so we don't have to. Loops let us tell the computer to loop over a block of code so that we don't have to write out the same process over and over.
